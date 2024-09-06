@@ -15,7 +15,7 @@
 ## Models and Results
 
 - Some trained models are available in the [`models`](https://github.com/Tortar/BriscolaAI/tree/main/models) folder, `checkpoint_dqn_episode_94000` is the strongest DQN-agent.
-- Some summarizing results are available in the [results] folder, for example it has been proven that the DQN-agent became stronger than a rule-based agent with a 82% win-rate
+- Some summarizing results are available in the [`results`](https://github.com/Tortar/BriscolaAI/tree/main/results) folder, for example it has been proven that the DQN-agent became stronger than a rule-based agent with a 82% win-rate
   against a random agent after 20000 games. We report this result also here:
 
   ![image](https://github.com/user-attachments/assets/8f7ac4f7-60f1-4477-aca9-78d05140750a)
