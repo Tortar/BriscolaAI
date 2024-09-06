@@ -1,0 +1,15 @@
+
+
+[project]
+name = "briscolaAI"
+version = "0.0.0"
+
+dependencies = [
+  "numpy",
+  "pandas",
+  "matplotlib",
+  "rlcard",
+  "torch",
+]
+
+requires-python = ">=3.8"

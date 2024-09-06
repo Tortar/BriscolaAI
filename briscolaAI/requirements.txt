@@ -1,0 +1,5 @@
+autonomous-learning-library
+numpy
+rlcard
+torch
+torchrl
