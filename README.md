@@ -4,9 +4,7 @@
 
 ```
 git clone https://github.com/Tortar/BriscolaAI.git
-cd BriscolaAI/briscolaAI
-pip install -e .
-cd ..
+pip install -e BriscolaAI/briscolaAI
 ```
 
 ## Training and Evaluation
