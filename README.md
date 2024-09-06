@@ -2,10 +2,12 @@
 
 ## Installation
 
-- Run `git clone https://github.com/Tortar/BriscolaAI.git`
-- Cd into the `BriscolaAI/briscolaAI` folder
-- Run `pip install -e .`
-- Cd out of the `briscolaAI` folder
+```
+git clone https://github.com/Tortar/BriscolaAI.git
+cd BriscolaAI/briscolaAI
+pip install -e .
+cd .
+```
 
 ## Training and Evaluation
 
