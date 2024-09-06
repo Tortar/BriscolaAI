@@ -3,7 +3,7 @@
 ## Installation
 
 - Run `git clone https://github.com/Tortar/BriscolaAI.git`
-- Cd into the `briscolaAI` folder
+- Cd into the `BriscolaAI/briscolaAI` folder
 - Run `pip install -e .`
 - Cd out of the `briscolaAI` folder
 
