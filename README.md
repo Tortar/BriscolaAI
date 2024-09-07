@@ -24,3 +24,4 @@ pip install -e BriscolaAI/briscolaAI
 </figure>
 </p>
 
+- The best DQN-agent won 88% of games agains the random agent and 63% against the rule agent.
