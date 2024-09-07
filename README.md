@@ -15,7 +15,7 @@ pip install -e BriscolaAI/briscolaAI
 ## Models and Results
 
 - Some trained models are available in the [`models`](https://github.com/Tortar/BriscolaAI/tree/main/models) folder, `checkpoint_dqn_episode_94000` is the strongest DQN-agent.
-- Some summarizing results are available in the [`results`](https://github.com/Tortar/BriscolaAI/tree/main/results) folder, e.g. the training process involved making the agent play     games against an agent playing randomly and a rule-based agent (with a 82% win-rate against the random agent), DQN-agent strength increased substantially during training as can be seen from these two graphs
+- Some summarizing results are available in the [`results`](https://github.com/Tortar/BriscolaAI/tree/main/results) folder, e.g. the training process involved making the agent play     games against an agent playing randomly and a rule-based agent (with a 82% win-rate against the random agent), DQN-agent strength increased substantially during training as can be seen from these two graphs:
 
 
 <figure class="half" style="display:flex">
