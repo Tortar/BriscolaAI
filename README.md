@@ -25,3 +25,8 @@ pip install -e BriscolaAI/briscolaAI
 </p>
 
 - The best DQN-agent wins on average the 89% of games against the random agent and 63% of games against the rule agent.
+
+## Play with the Agent
+
+You can play with it by running the code in [`agent_play.ipynb`](https://github.com/Tortar/BriscolaAI/blob/main/agent_play.ipynb). 
+
