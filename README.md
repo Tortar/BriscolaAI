@@ -21,7 +21,6 @@ pip install -e BriscolaAI/briscolaAI
 <figure class="half" style="display:flex">
     <img style="width:48%" src="https://github.com/user-attachments/assets/48968f3a-5a76-4262-9aa6-4b14d819f85c">
     <img style="width:48%" src="https://github.com/user-attachments/assets/8f7ac4f7-60f1-4477-aca9-78d05140750a" >
-    <figcaption>Caption describing these two images.</figcaption>
 </figure>
 
 
