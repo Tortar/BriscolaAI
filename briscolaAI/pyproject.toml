@@ -10,6 +10,7 @@ dependencies = [
   "matplotlib",
   "rlcard",
   "torch",
+  "ipython"
 ]
 
 requires-python = ">=3.8"
