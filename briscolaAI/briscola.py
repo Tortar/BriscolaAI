@@ -181,9 +181,9 @@ class BriscolaEnv(Env):
         winner_id = self.game.winner_round_id
         round_points = self.game.round_points
         if agent_id == winner_id:
-            return round_points
+            return round_points/22
         else:
-            return -round_points
+            return -round_points/22
 
     def game_is_terminated(self):
         return False if self.game.winner == None else True
